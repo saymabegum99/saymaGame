@@ -178,7 +178,7 @@ label start:
     kiril_full "Yes, yes morning."
 
     kiril_full "Well... we have Kasha or
-    I can wip up a good Blini if you'd prefer it."
+    I can whip up a good Blini if you'd prefer it."
 
     hide kiril_body_talk
    #first choice that user will make is between foods!
@@ -202,7 +202,7 @@ label start:
             #image of blini/pancake
 
     label after_menu:
-        kolya "Thanks Kiril, I really mean it."
+    kolya "Thanks Kiril, I really mean it."
 
     kolya "I don't want to be a burden or anything. Just give me the world
     and I'll leave. You wont even notice I'm gone."
@@ -278,11 +278,11 @@ label start:
 
     kolya "Don't get it twisted! I don't know anyone else."
 
-    kolya "I don't even know if I have a single friend left on this planet
-    to tell you the truth."
+    kolya "I don't even know if I even have a single friend left on this planet
+    to tell you the truth, did I even have one to start with? I can't recall."
 
-    kiril "Look, come to the registration office tomorrow with me. You'll
-    feel different about it, I promise you."
+    kiril "Look, come to the registration office with me today, it's still
+    bright and early. You'll feel different about it, I promise you."
 
     kolya "I already told you— No."
 
@@ -296,7 +296,7 @@ label start:
 
     kolya "Ah, great. Now I really can't join."
 
-    kiril talk "Better join sooner, rather than later. Don't want to get
+    kiril talk "Better join sooner rather than later. Don't want to get
     classed as the poor farmer boy who never held a weapon in his life, do you?"
 
     kolya "I don't care for these things, I've already had enough of it
@@ -320,19 +320,9 @@ label start:
     kiril smile "No problem. Don't worry about it."
 
 
-    scene kiril_house
 
+#street scene, goes to registration office, pub.
 
-
-
-
-
-
-
-
-
-
-
-    # This ends the game.
+    scene Street_path
 
     return

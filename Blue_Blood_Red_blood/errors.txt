@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 194: expected statement.
-    "I've been on savoury foods for far too long, Blini.":
-                                                         ^
+File "game/variables.rpy", line 26: expected statement.
+    efine kiril = Character("Vladimir", image="Vladimir")
+                ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Sat Dec 05 23:10:42 2020
+Mon Dec 14 23:03:47 2020
