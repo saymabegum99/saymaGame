@@ -1,0 +1,18 @@
+running ['C:\\Users\\user\\Downloads\\renpy-7.3.5-sdk\\lib\\windows-i686\\zsync.exe', '-o', 'C:\\Users\\user\\Downloads\\renpy-7.3.5-sdk\\update\\atom-windows.update.new', '-k', 'C:\\Users\\user\\Downloads\\renpy-7.3.5-sdk\\update\\atom-windows.zsync', '-i', 'C:\\Users\\user\\Downloads\\renpy-7.3.5-sdk\\update\\atom-windows.update', 'http://update.renpy.org/7.3.5/renpy-7.3.5-atom-windows.zsync']
+rename: Permission denied
+Unable to back up old file C:\Users\user\Downloads\renpy-7.3.5-sdk\update\atom-windows.update.new - completed download left in C:\Users\user\Downloads\renpy-7.3.5-sdk\update\atom-windows.update.new.part
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
